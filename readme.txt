@@ -3,5 +3,9 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-`for(i=o;i<10;i++){
-console.log(i)}`
+ ```java
+  for(int i=0 ; i < 5 ; i++)
+  {
+     System.out.println("i is : " + i);
+  }
+```
